@@ -1,0 +1,1 @@
+Tujuan dari analisis ini adalah memanfaatkan teknik logika fuzzy untuk mengklasifikasikan produk ke dalam kategori kualitas berdasarkan beberapa atribut masukan. Dengan mempertimbangkan faktor-faktor seperti diskon, rating, dan jumlah rating, projek ini bertujuan untuk memodelkan konsep "kualitas produk" yang pada dasarnya tidak jelas.
