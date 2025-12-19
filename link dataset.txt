@@ -1,0 +1,3 @@
+Yolo Train = https://www.kaggle.com/datasets/fatihkgg/affectnet-yolo-format/data
+
+Emotion Classifier = https://www.kaggle.com/datasets/sionehoghen/facial-expression/data
